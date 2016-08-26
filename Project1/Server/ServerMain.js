@@ -1,6 +1,4 @@
-/**
- * Created by Snir on 20/08/2016.
- */
+
 var http = require("http");
 var trace = require("../Utils/Trace")
 
